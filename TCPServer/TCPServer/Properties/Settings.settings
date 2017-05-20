@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TCPServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TCP_SERVER_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">51510</Value>
+    </Setting>
+    <Setting Name="CONNECTOR_SERVER_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55299</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
